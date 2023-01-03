@@ -124,3 +124,11 @@ In the data transformation a few things were completed..
         3. China has numerous best universities in Asia.
         4. The better the point, the better the rank.
         5. Harvard, Oxford universities retain their ranks as in the past, some universities like Duke University have their ranks changing over the years.
+
+
+# Conclusion
+This entire project is for `Data Analysis`. 
+
+It's suitable for beginners. This project can be executed by anyone. 
+
+Due to the webdriver's extensive website trip, data collection takes a lengthy time.
