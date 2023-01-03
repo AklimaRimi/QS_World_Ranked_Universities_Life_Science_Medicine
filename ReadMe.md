@@ -1,5 +1,5 @@
 # Welcome To this Project. 
-## ---Top Universities according QS World Ranking for Life Science Medicine---
+## Name : Top Universities according QS World Ranking for Life Science Medicine
 # Motive
   1. Scrape Data from that [Website](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/life-sciences-medicine)
   
