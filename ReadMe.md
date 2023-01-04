@@ -9,7 +9,7 @@
 
 
 # Data collection
- ***Datas consist of every university rank, name , location, points from 2018 to 2022. Not only that, inside of each university, their latest information is also collected.***
+ ***Data consist of every university rank, name , location, points from 2018 to 2022. Not only that, inside of each university, their latest information is also collected.***
  
 You can run this code and collect  datasets. Thus you can build your own tableau Dashboard. To do this you have to follow these instructions.
 
