@@ -132,3 +132,5 @@ This entire project is for `Data Analysis`.
 It's suitable for beginners. This project can be executed by anyone. 
 
 Due to the webdriver's extensive website trip, data collection takes a lengthy time.
+
+Data might be changed over time.
