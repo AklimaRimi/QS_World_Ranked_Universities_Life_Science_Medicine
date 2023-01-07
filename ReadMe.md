@@ -1,5 +1,4 @@
-# Welcome To this Project. 
-## Name : Top Universities according QS World Ranking for Life Science Medicine
+# Top Universities according QS World Ranking for Life Science Medicine
 # Motive
   1. Scrape Data from that [Website](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/life-sciences-medicine)
   2. Transform the data and 
@@ -132,7 +131,7 @@ In the data transformation a few things were completed..
  
 # Conclusion
  
-This entire project is for `Data Analysis`. It's suitable for beginners. This project can be executed by anyone. Due to the webdriver's extensive website trip, data collection takes a lengthy time. If you face any problem feel free to comment. You can `Support` me by giving a `Star`.
+This entire project is for `Data Analysis`. It's suitable for beginners. This project can be executed by anyone. Due to the webdriver's extensive website trip, data collection takes a lengthy time.
  
  
 
