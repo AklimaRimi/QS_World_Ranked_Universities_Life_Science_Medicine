@@ -3,7 +3,7 @@ import time
 import pandas as pd
 import string
 import numpy as np
-from Scrapper import *
+from scrapper import *
 
 
 ## Transforming Collected
