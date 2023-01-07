@@ -52,9 +52,7 @@ You can run this code and collect  datasets. Thus you can build your own tableau
   7. Then Write
   
   ```
-  python Data_Creation_and_Transform.py --ChromePath <Chrome Driver PathName>
-  
-  # Like python Data_Creation_and_Transform.py --ChromePath C:\Users\User\Downloads\chromedriver_win32
+  python Data_Creation_and_Transform.py 
   ```
   
   
