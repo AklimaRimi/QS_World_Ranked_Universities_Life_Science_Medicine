@@ -133,9 +133,5 @@ In the data transformation a few things were completed..
 
 # Conclusion
 
-This entire project is for `Data Analysis`. 
-
-It's suitable for beginners. This project can be executed by anyone. 
-
-Due to the webdriver's extensive website trip, data collection takes a lengthy time.
+This entire project is for `Data Analysis`. It's suitable for beginners. This project can be executed by anyone. Due to the webdriver's extensive website trip, data collection takes a lengthy time. If you face any problem feel free to comment. You can `Support` me giving a `Star`.
 
