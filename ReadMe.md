@@ -78,7 +78,7 @@ You can run this code and collect  datasets. Thus you can build your own tableau
   
   
   
-## Data Transform
+# Data Transform
 
 If you did everything according to the above instructions then Data Transformation has already been done already.\
 In the data transformation a few things were completed..
@@ -96,7 +96,7 @@ In the data transformation a few things were completed..
   6. Save Clear wanted dataset.
   
   
-## Analysis and Stories
+# Analysis and Stories
   1. Using '[QS_World_Universities_Data_Life_Science_Medicine.csv](https://github.com/AklimaRimi/Data-Analysis---QS-World-Ranked-Universities-Life-Science-and-Medicine-/blob/main/Output/QS_World_Universities_Data_Life_Science_Medicine.csv)' dataset I've created [This Dashboard](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/WorldRankedUniversityLifeScienceandMedicine/Dashboard1) 
       with [That Story](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/StoryofQSWorldRankedUniversitiesin2022/Story1)
       
