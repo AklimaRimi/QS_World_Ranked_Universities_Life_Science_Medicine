@@ -2,10 +2,9 @@
 ## Name : Top Universities according QS World Ranking for Life Science Medicine
 # Motive
   1. Scrape Data from that [Website](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/life-sciences-medicine)
-  
   2. Transform the data and 
-  
-  3. Create a Dashboard and find a story using the dataset.
+  3. Create a Dashboard using Tableau.
+  4. Find a story using the dataset.
 
 
 # Data collection
