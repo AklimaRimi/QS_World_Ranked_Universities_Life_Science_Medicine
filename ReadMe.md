@@ -5,13 +5,13 @@
   2. Transform the data and 
   3. Create a Dashboard using Tableau.
   4. Find a story using the dataset.
-
-
+ 
+ 
 # Data collection
  ***Data consist of every university rank, name , location, points from 2018 to 2022. Not only that, inside of each university, their latest information is also collected.***
  
 You can run this code and collect  datasets. Thus you can build your own tableau Dashboard. To do this you have to follow these instructions.
-
+ 
   1. Download [Google Chrome Driver](https://chromedriver.storage.googleapis.com/index.html?path=109.0.5414.25/) from based on your device:  
      unzip the downloaded file and  collect the path where The Driver is saved.
   
@@ -59,30 +59,30 @@ You can run this code and collect  datasets. Thus you can build your own tableau
   
   
   
-  ***After Completeing all of works You'll get 5 Outputs in csv Formate***
+  ***After Completing all of works You'll get 5 Outputs in csv Format***
   
   
   Unprocessed Data:
   
   1. `data1.csv`
-
+ 
   2. `data2.csv`
-
+ 
   3. `data3.csv`
     
   Processed or Transformed Data:
   
   1. `QS_World_Universities_Data_Life_Science_Medicine.csv`
-
+ 
   2. `Qs_World_Ranked_University_Name_Point_2018_to_2022_Life_Science_Medicine.csv`
   
   
   
 # Data Transform
-
+ 
 If you did everything according to the above instructions then Data Transformation has already been done already.\
 In the data transformation a few things were completed..
-
+ 
   1. Dropping unnecessary columns.
   
   2. Clearing data from unwanted punctuation.
@@ -103,7 +103,7 @@ In the data transformation a few things were completed..
       ![](https://github.com/AklimaRimi/Data-Analysis---QS-World-Ranked-Universities-Life-Science-and-Medicine-/blob/main/Tableau_Dashboard/Dashboard1.png)
       
       ## Story or Findings:
-        1. USA, UK, Australia still open for Bachelor admissions.
+        1. USA, UK, Australia are still open for Bachelor admissions.
         2. Sydney and Monash University have the largest number of international students. Due to better living opportunities,
           job benefits, scholarships and deductible expenses.
         3. More faculty or more students does not improve a university's score. Improved by education.
@@ -121,16 +121,18 @@ In the data transformation a few things were completed..
         3. China has numerous best universities in Asia.
         4. The better the point, the better the rank.
         5. Harvard, Oxford universities retain their ranks as in the past, some universities like Duke University have their ranks changing over the years.
-
+ 
 # Caution
   1. Around 4-5 hours to complete the entire process from start to finish depending on the user's device.
   
   2. Do not touch, minimize or close any pop up Google Chrome.  
  
   3. Data might be changed over time.
-
-
+ 
+ 
 # Conclusion
-
-This entire project is for `Data Analysis`. It's suitable for beginners. This project can be executed by anyone. Due to the webdriver's extensive website trip, data collection takes a lengthy time. If you face any problem feel free to comment. You can `Support` me giving a `Star`.
+ 
+This entire project is for `Data Analysis`. It's suitable for beginners. This project can be executed by anyone. Due to the webdriver's extensive website trip, data collection takes a lengthy time. If you face any problem feel free to comment. You can `Support` me by giving a `Star`.
+ 
+ 
 
