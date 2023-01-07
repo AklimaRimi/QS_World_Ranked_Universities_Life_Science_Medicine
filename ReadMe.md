@@ -123,12 +123,19 @@ In the data transformation a few things were completed..
         4. The better the point, the better the rank.
         5. Harvard, Oxford universities retain their ranks as in the past, some universities like Duke University have their ranks changing over the years.
 
+# Caution
+  1. From Start to end to complete all process almost 4-5 hours depend on user's device.
+  
+  2. Do not touch, minimize or close any pop up Google Chrome.  
+ 
+  3. Data might be changed over time.
+
 
 # Conclusion
+
 This entire project is for `Data Analysis`. 
 
 It's suitable for beginners. This project can be executed by anyone. 
 
 Due to the webdriver's extensive website trip, data collection takes a lengthy time.
 
-Data might be changed over time.
