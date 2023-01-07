@@ -6,6 +6,7 @@ import numpy as np
 from Scrapper import *
 
 
+## Transforming Collected
 def Transform():
   val = []
   data1 = pd.read_csv('data1.csv')
