@@ -18,7 +18,7 @@ You can run this code and collect  datasets. Thus you can build your own tableau
   
   2. Install Python on your device from [Here](https://www.python.org/downloads/)
   
-  3.  Download this [Folder](https://github.com/AklimaRimi/Data-Analysis---QS-World-Ranked-Universities-Life-Science-and-Medicine-) file, unzip the downloaded file.
+  3.  Download this [Folder](https://github.com/AklimaRimi/Data-Analysis---QS-World-Ranked-Universities-Life-Science-and-Medicine) file, unzip the downloaded file, And Rename the file name.
   
   4. (Optional) Create an environment for this project inside of the unzipped file. Click right button of mouse and select **Open in Terminal** and write these code one by one
   ``` 
