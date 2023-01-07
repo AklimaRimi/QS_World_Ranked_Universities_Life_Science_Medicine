@@ -124,7 +124,7 @@ In the data transformation a few things were completed..
         5. Harvard, Oxford universities retain their ranks as in the past, some universities like Duke University have their ranks changing over the years.
 
 # Caution
-  1. From Start to end to complete all process almost 4-5 hours depend on user's device.
+  1. Around 4-5 hours to complete the entire process from start to finish depending on the user's device.
   
   2. Do not touch, minimize or close any pop up Google Chrome.  
  
