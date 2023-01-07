@@ -1,3 +1,5 @@
+### importing Dependencies
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -10,8 +12,7 @@ import argparse
 import pandas as pd
 import string
 
-
-
+## Collecting First Data
 def ScrapData1():
   datas = []
   rank_ =  []
@@ -117,6 +118,7 @@ def ScrapData1():
   driver.close()
   return 
 
+## Collecting Second Data
 def ScrapData2():
   
   datas = []
@@ -168,6 +170,7 @@ def ScrapData2():
   driver.close()
   return
 
+## Collecting Third Data
 def ScrapData3():
   
     datas = []
