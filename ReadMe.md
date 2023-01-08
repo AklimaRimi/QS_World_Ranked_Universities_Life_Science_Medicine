@@ -16,7 +16,7 @@ You can run this code and collect  datasets. Thus you can build your own tableau
   
   2. Install Python on your device from [Here](https://www.python.org/downloads/)
   
-  3.  Download this [Folder](https://github.com/AklimaRimi/Data-Analysis---QS-World-Ranked-Universities-Life-Science-and-Medicine) file, unzip the downloaded file, And Rename the file name.
+  3.  Download this [Folder](https://github.com/AklimaRimi/QS_World_Ranked_Universities_Life_Science_Medicine/archive/refs/heads/main.zip) file, unzip the downloaded file, And Rename the file name.
   
   4. (Optional) Create an environment for this project inside of the unzipped file. Click right button of mouse and select **Open in Terminal** and write these code one by one
   ``` 
@@ -43,14 +43,14 @@ You can run this code and collect  datasets. Thus you can build your own tableau
      
   6. After Completing install packages, write
   ```
-  cd Script
+  cd scripts
   ```
   Hit Enter 
   
   7. Then Write
   
   ```
-  python Data_Creation_and_Transform.py 
+  python scrapper_transformer.py 
   ```
   
   
@@ -79,7 +79,8 @@ You can run this code and collect  datasets. Thus you can build your own tableau
   
 # Data Transform
  
-If you did everything according to the above instructions then Data Transformation has already been done already.\
+If you did everything according to the above instructions then Data Transformation has already been done already.
+
 In the data transformation a few things were completed..
  
   1. Dropping unnecessary columns.
@@ -96,10 +97,10 @@ In the data transformation a few things were completed..
   
   
 # Analysis and Stories
-  1. Using '[QS_World_Universities_Data_Life_Science_Medicine.csv](https://github.com/AklimaRimi/Data-Analysis---QS-World-Ranked-Universities-Life-Science-and-Medicine-/blob/main/Output/QS_World_Universities_Data_Life_Science_Medicine.csv)' dataset I've created [This Dashboard](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/WorldRankedUniversityLifeScienceandMedicine/Dashboard1) 
+  1. Using '[QS_World_Universities_Data_Life_Science_Medicine.csv](https://github.com/AklimaRimi/QS_World_Ranked_Universities_Life_Science_Medicine/blob/main/output/QS_World_Universities_Data_Life_Science_Medicine.csv)' dataset I've created [This Dashboard](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/WorldRankedUniversityLifeScienceandMedicine/Dashboard1) 
       with [That Story](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/StoryofQSWorldRankedUniversitiesin2022/Story1)
       
-      ![](https://github.com/AklimaRimi/Data-Analysis---QS-World-Ranked-Universities-Life-Science-and-Medicine-/blob/main/Tableau_Dashboard/Dashboard1.png)
+      ![](https://github.com/AklimaRimi/QS_World_Ranked_Universities_Life_Science_Medicine/blob/main/tableau_dashboard/Dashboard1.png)
       
       ## Story or Findings:
         1. USA, UK, Australia are still open for Bachelor admissions.
@@ -110,9 +111,9 @@ In the data transformation a few things were completed..
         5. Most top universities have an average of 55-70 H-Index citations.
         6. There are very few opportunities for students who want to do Masters in Europe.
          
-  2. Based on '[Qs_World_Ranked_University_Name_Point_2018_to_2022_Life_Science_Medicine.csv](https://github.com/AklimaRimi/Data-Analysis---QS-World-Ranked-Universities-Life-Science-and-Medicine-/blob/main/Output/Qs_World_Ranked_University_Name_Point_2018_to_2022_Life_Science_Medicine.csv)' dataset another [Dashboard](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/UniversityRankandPointsover5years/Dashboard1) has been created with [Story](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/Storyoveryears/Story1)
+  2. Based on '[Qs_World_Ranked_University_Name_Point_2018_to_2022_Life_Science_Medicine.csv](https://github.com/AklimaRimi/QS_World_Ranked_Universities_Life_Science_Medicine/blob/main/output/Qs_World_Ranked_University_Name_Point_2018_to_2022_Life_Science_Medicine.csv)' dataset another [Dashboard](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/UniversityRankandPointsover5years/Dashboard1) has been created with [Story](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/Storyoveryears/Story1)
   
-      ![](https://github.com/AklimaRimi/Data-Analysis---QS-World-Ranked-Universities-Life-Science-and-Medicine-/blob/main/Tableau_Dashboard/Dashboard2.png)  
+      ![](https://github.com/AklimaRimi/QS_World_Ranked_Universities_Life_Science_Medicine/blob/main/tableau_dashboard/Dashboard2.png)  
   
       ## Story or Findings:
         1. We can see that even on average Canada has the Most good ranked Universities.
