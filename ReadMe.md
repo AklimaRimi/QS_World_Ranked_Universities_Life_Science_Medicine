@@ -1,3 +1,5 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAklimaRimi%2FQS_World_Ranked_Universities_Life_Science_Medicine&label=Reads&countColor=%23263759)
+
 # Top Universities according QS World Ranking for Life Science Medicine
 # Motive
   1. Scrape Data from that [Website](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/life-sciences-medicine)
