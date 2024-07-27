@@ -1,6 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAklimaRimi%2FQS_World_Ranked_Universities_Life_Science_Medicine&label=Reads&countColor=%23263759)
 
-# Top Universities according QS World Ranking for Life Science Medicine
+# Top Universities according QS World Ranking for Life Science Medicine.
 
 ![](https://github.com/AklimaRimi/QS_World_Ranked_Universities_Life_Science_Medicine/blob/main/tableau_dashboard/Dashboard1.png)
 
